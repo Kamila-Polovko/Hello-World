@@ -1,2 +1,3 @@
 # Hello-World
-My first repository
+My first repository.
+Learning and gaining new knowledge and skills
